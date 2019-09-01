@@ -1,6 +1,6 @@
 'use strict';
 
-// EJERCICIO 4 REPASO
+// EJERCICIO 4 REPASO Y MEJORAS
 
 const tasksList = document.querySelector('.js-list');
 const tasksStatus = document.querySelector('.status');
